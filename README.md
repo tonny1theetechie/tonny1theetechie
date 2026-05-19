@@ -8,7 +8,7 @@
 
 ## About Me
 
-**BSc Computer Science | Egerton University  
+**BSc Computer Science | Egerton University *
 Nakuru, Kenya  
 
 I am a Software Engineer and Mobile App Developer passionate about 
